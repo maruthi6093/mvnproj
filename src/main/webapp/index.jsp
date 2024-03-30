@@ -10,7 +10,7 @@
  <h1> hello welcome maruthi </h1>
  <h1> ####success ilove kasturi##### </h1>
 
- <table border = "4" bordercolor = "red" bgcolor = "yellow">
+ <table border = "4" bordercolor = "red" bgcolor = "green">
          <tr>
             <th>Column 1</th>
             <th>Column 2</th>

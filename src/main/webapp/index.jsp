@@ -1,14 +1,15 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
-    <head>
+
+<head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Hello Java EE Continuous Delivery!</title>
     </head>
     <body>
 
  <h1> hello welcome maruthi </h1>
- <h1> ####success ilove kasturi##### </h1>
+ <h1> ####JENKINS PIPELINE##### </h1>
 
  <table border = "4" bordercolor = "green" bgcolor = "blue">
          <tr>

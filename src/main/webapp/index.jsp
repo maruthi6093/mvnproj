@@ -11,7 +11,7 @@
  <h1> hello welcome maruthi </h1>
  <h1> ####JENKINS PIPELINE##### </h1>
 
- <table border = "4" bordercolor = "green" bgcolor = "blue">
+ <table border = "4" bordercolor = "green" bgcolor = "yellow">
          <tr>
             <th>Column 1</th>
             <th>Column 2</th>

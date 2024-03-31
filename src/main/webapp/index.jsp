@@ -8,7 +8,7 @@
     </head>
     <body>
 
- <h1> hello welcome maruthi </h1>
+ <h1> hello welcome niranjan </h1>
  <h1> ####JENKINS PIPELINE##### </h1>
 
  <table border = "4" bordercolor = "green" bgcolor = "yellow">
@@ -33,11 +33,11 @@
       </table>
 
       <h1> ******************************************* </h1>
-      <h1> *** ::: TEST CODE FOR DEVOPS PRACTICE  ::: *** </h1>
-      <h1> *** ::: TEST CODE FOR DEVOPS PRACTICE  ::: *** </h1>
+      <h1> *** ::: TEST CODE FOR DEVOPS PRACTICE 1  ::: *** </h1>
+      <h1> *** ::: TEST CODE FOR DEVOPS PRACTICE 2  ::: *** </h1>
       <h1> ******************************************* </h1>
 
-<table width="40%" bgcolor="pink" align="center" border="2">
+<table width="40%" bgcolor="red" align="center" border="2">
 
 <tr>
 <td colspan=2><center><font size=4><b>HTML Login Page</b></font></center></td>
